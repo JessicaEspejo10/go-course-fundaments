@@ -1,0 +1,6 @@
+success: 2024/09/18 09:27:10 main.go:24: test1
+success: 2024/09/18 09:27:10 main.go:25: test2
+success: 2024/09/18 09:27:10 main.go:26: test3
+errors: 2024/09/18 09:27:10 main.go:29: test1
+errors: 2024/09/18 09:27:10 main.go:30: test2
+errors: 2024/09/18 09:27:10 main.go:31: test3
